@@ -18,8 +18,6 @@ Uma empresa de software pretende implementar um sistema de gestão de base de da
 
 Além de aplicar os conhecimentos adquiridos na Unidade Curricular de Base de Dados, o principal objetivo deste projeto é desenvolver uma base de dados que atenda às necessidades de negócio propostas. O projeto visa capacitar os estudantes na interpretação de requisitos de negócio e na elaboração e implementação de modelos de base de dados capazes de armazenar eficientemente a informação necessária para uma aplicação de comunicação.
 
-Este repositório no GitHub servirá como um espaço centralizado para documentar e versionar o progresso do projeto, incluindo o código SQL para a criação da base de dados, a documentação de suporte e outros recursos relevantes.
-
 -------
 
 # Project Description
@@ -41,6 +39,4 @@ A software company intends to implement a database management system to support 
 ## Motivation and Objectives
 
 In addition to applying the knowledge acquired in the Database Unit Course, the main objective of this project is to develop a database that meets the proposed business needs. The project aims to empower students to interpret business requirements and to develop and implement database models capable of efficiently storing the necessary information for a communication application.
-
-This GitHub repository will serve as a centralized space to document and version the progress of the project, including the SQL code for creating the database, supporting documentation, and other relevant resources.
 
